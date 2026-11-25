@@ -4,6 +4,9 @@
 }
 body{
     background-color: #7989e8;
+img.lado {
+    float: right;
+    margin-right: 10px;}
 }
 main{
     background-color: rgb(209, 216, 205);
